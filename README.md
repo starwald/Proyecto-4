@@ -1,2 +1,2 @@
 # Proyecto-4
-Este proyecto tiene como propósito la creación de un videojuego de disparos en un laberinto, centrado en un público casual.
+Este proyecto tiene como objetivo desarrollar un videojuego de disparos ambientado en un laberinto, dirigido especialmente a un público casual.
